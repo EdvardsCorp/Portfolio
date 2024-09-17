@@ -16,7 +16,7 @@ const SkillsText =
   "For hobbies, I have learned the following: Flutter & Dart, along with Google Firebase(Realtime Database, Firestore Database, Analytics, Authentication, Storage).";
 
 const PortfolioText = 
-      The portfolio is currently being updated. Soon, I will add the projects I have been working on in my free time.
+      "The portfolio is currently being updated. Soon, I will add the projects I have been working on in my free time."
       <blockquote class="imgur-embed-pub" lang="en" data-id="a/a09p58K" data-context="false">
         <a href="//imgur.com/a/a09p58K">View Portfolio</a>
       </blockquote>
