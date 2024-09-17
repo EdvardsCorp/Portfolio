@@ -243,11 +243,11 @@ header p {
   background: linear-gradient(
     90deg,
     #1e293b,
-    transparent 30%,
-    transparent 70%,
+    transparent 10%,
+    transparent 90%,
     #1e293b
   );
-  position: absolute;
+  position: fixed;
   inset: 0;
 }
 
