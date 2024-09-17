@@ -15,9 +15,13 @@ const SkillsText =
   "I mostly have experience in HTML, CSS and JavaScript." +
   "For hobbies, I have learned the following: Flutter & Dart, along with Google Firebase(Realtime Database, Firestore Database, Analytics, Authentication, Storage).";
 
-const PortfolioText =
-  "The portfolio is currently being updated. Soon, I will add the projects I have been working on in my free time.";
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/a09p58K" data-context="false" ><a href="//imgur.com/a/a09p58K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+const PortfolioText = `
+      <p>The portfolio is currently being updated. Soon, I will add the projects I have been working on in my free time.</p>
+      <blockquote class="imgur-embed-pub" lang="en" data-id="a/a09p58K" data-context="false">
+        <a href="//imgur.com/a/a09p58K">View Portfolio</a>
+      </blockquote>
+      <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+    `;
 
 const ContactText =
   "You can contact me from Git, LinkedIn or Facebook by clicking icon bellow. Also my Email is Edvard.Prosutinski@gmail.com";
