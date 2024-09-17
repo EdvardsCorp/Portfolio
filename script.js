@@ -3,7 +3,7 @@ const AboutButton = document.getElementById("AboutButton");
 const SkillsButton = document.getElementById("SkillsButton");
 const PortfolioButton = document.getElementById("PortfolioButton");
 const ContactButton = document.getElementById("ContactButton");
-const outputTextElement = document.getElementById("outputText");
+const outputTextContainer = document.getElementById("outputTextContainer");
 
 const HomeText =
   "I am not fearless. I get scared plenty. But I have also learned how to channel that emotion to sharpen me. - Bear Grylls";
@@ -13,7 +13,7 @@ const AboutText =
 
 const SkillsText =
   "I mostly have experience in HTML, CSS and JavaScript." +
-  "For hobbies, I have learned the following: Flutter & Dart, along with Google Firebase(Realtime Database, Firestore Database, Analytics, Authentication, Storage).";
+  "For hobbies, I have learned the following: Flutter & Dart, along with Google Firebase (Realtime Database, Firestore Database, Analytics, Authentication, Storage).";
 
 const PortfolioText = `
   <div style="margin-bottom: 10px;">
@@ -24,21 +24,27 @@ const PortfolioText = `
   </div>
 `;
 
+
 const ContactText =
-  "You can contact me from Git, LinkedIn or Facebook by clicking icon bellow. Also my Email is Edvard.Prosutinski@gmail.com";
+  "You can contact me from Git, LinkedIn or Facebook by clicking icon below. Also my Email is Edvard.Prosutinski@gmail.com";
 
 HomeButton.addEventListener("click", () => {
-  outputTextElement.textContent = HomeText;
+  outputTextContainer.innerHTML = `<p>${HomeText}</p>`;
 });
+
 AboutButton.addEventListener("click", () => {
-  outputTextElement.textContent = AboutText;
+  outputTextContainer.innerHTML = `<p>${AboutText}</p>`;
 });
+
 SkillsButton.addEventListener("click", () => {
-  outputTextElement.textContent = SkillsText;
+  outputTextContainer.innerHTML = `<p>${SkillsText}</p>`;
 });
+
 PortfolioButton.addEventListener("click", () => {
-  outputTextElement.textContent = PortfolioText;
+  outputTextContainer.innerHTML = PortfolioText;
 });
+
 ContactButton.addEventListener("click", () => {
-  outputTextElement.textContent = ContactText;
+  outputTextContainer.innerHTML = `<p>${ContactText}</p>`;
 });
+
