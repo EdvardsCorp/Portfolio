@@ -17,6 +17,7 @@ const SkillsText =
 
 const PortfolioText =
   "The portfolio is currently being updated. Soon, I will add the projects I have been working on in my free time.";
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/a09p58K" data-context="false" ><a href="//imgur.com/a/a09p58K"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 const ContactText =
   "You can contact me from Git, LinkedIn or Facebook by clicking icon bellow. Also my Email is Edvard.Prosutinski@gmail.com";
