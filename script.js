@@ -18,6 +18,9 @@ const SkillsText =
 const PortfolioText = `
 <div>
 <div>
+ <img src="https://i.imgur.com/e2LqbJ8.png" alt="Portfolio Image" style="width: 600px; height: 145.1px;">
+  </div>
+<div>
  <img src="https://i.imgur.com/zIJHktz.jpeg" alt="Portfolio Image" style="width: 600px; height: 145.1px;">
   </div>
     <img src="https://i.imgur.com/LfnlmLP.png" alt="Portfolio Image" style="width: 600px; height: 145px;">
