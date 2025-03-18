@@ -21,19 +21,17 @@ const PortfolioText = `
  <img src="https://i.imgur.com/N1dlXYD.png" alt="Portfolio Image" style="width: 600px;">
   </div>
 <div>
+ <img src="https://i.imgur.com/N1dlXYD.png" alt="Portfolio Image" style="width: 600px;">
+  </div>
+<div>
  <img src="https://i.imgur.com/e2LqbJ8.png" alt="Portfolio Image" style="width: 600px; height: 205px;">
   </div>
-<div>
- <img src="https://i.imgur.com/zIJHktz.jpeg" alt="Portfolio Image" style="width: 600px; height: 145.1px;">
-  </div>
+
     <img src="https://i.imgur.com/LfnlmLP.png" alt="Portfolio Image" style="width: 600px; height: 145px;">
   </div>
-  <div>
-    <img src="https://i.imgur.com/4z2WoGG.png" alt="Portfolio Image" style="width: 600px; height: 340.8px;">
-  </div>
+
 <div>
     <img src="https://i.imgur.com/qME8Z5Q.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
-    <img src="https://i.imgur.com/f8KNQw4.jpeg" alt="Portfolio Image" style="width: 300px; height: 424px;">
   </div>
 <div>
     <img src="https://i.imgur.com/GmqUgE2.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
