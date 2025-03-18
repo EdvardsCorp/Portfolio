@@ -21,7 +21,7 @@ const PortfolioText = `
  <img src="https://i.imgur.com/N1dlXYD.png" alt="Portfolio Image" style="width: 600px;">
   </div>
 <div>
- <img src="https://i.imgur.com/N1dlXYD.png" alt="Portfolio Image" style="width: 600px;">
+ <img src="https://i.imgur.com/ECCM1yd.png" alt="Portfolio Image" style="width: 600px;">
   </div>
 <div>
  <img src="https://i.imgur.com/e2LqbJ8.png" alt="Portfolio Image" style="width: 600px; height: 205px;">
@@ -29,13 +29,9 @@ const PortfolioText = `
 
     <img src="https://i.imgur.com/LfnlmLP.png" alt="Portfolio Image" style="width: 600px; height: 145px;">
   </div>
-
-<div>
-    <img src="https://i.imgur.com/qME8Z5Q.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
-  </div>
 <div>
     <img src="https://i.imgur.com/GmqUgE2.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
-    <img src="https://i.imgur.com/CNVl6xI.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
+   <img src="https://i.imgur.com/qME8Z5Q.png" alt="Portfolio Image" style="width: 300px; height: 424px;">
   </div>
  
 </div>
