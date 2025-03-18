@@ -6,14 +6,14 @@ const ContactButton = document.getElementById("ContactButton");
 const imagesContainer = document.querySelector(".images");
 
 const HomeText =
-  "I am not fearless. I get scared plenty. But I have also learned how to channel that emotion to sharpen me. - Bear Grylls";
+  "Iga uus väljakutse on võimalus õppida ja kasvada. Keskendun lahendustele, mis toovad tulemusi ning inspireerivad kasutajaid tegutsema.";
 
 const AboutText =
-  "I am studying Multimedia Specialist (web developer) at the Polytechnic School. I'am reliable and effective employee who can manage his time effectively also Independent decision maker who takes responsibility for the results of my work.";
+  "Minu eesmärk on luua veebikogemusi, mis keskenduvad kasutaja mugavusele ja suunamisele. Pakun teadmisi veebidisaini ja mobiilirakenduste arendamise valdkonnas, et tagada sujuv ja lihtne kasutajakogemus.";
 
 const SkillsText =
-  "I mostly have experience in HTML, CSS and JavaScript." +
-  "For hobbies, I have learned the following: Flutter & Dart, along with Google Firebase (Realtime Database, Firestore Database, Analytics, Authentication, Storage).";
+  "Valdan Adobe Creative Cloudi tööriistu (Photoshop, Illustrator, Premiere Pro, After Effects) ning täiendan oma oskusi ka Flutter/Dart, HTML-i, CSS-i ja JavaScripti alal. Kasutan UX/UI disainitööriistu, nagu Figma ja Sketch, et luua selge ja mugava kasutajakogemusega lahendusi.";
+
 
 const PortfolioText = `
 <div>
